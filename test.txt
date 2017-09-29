@@ -5,6 +5,6 @@ Tortoise...
 Dots here...
 
 
-Updating with Bash
+Updating with tortois
 
 
