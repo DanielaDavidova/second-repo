@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+
 Change here...
 Updating with new line here
 Tortoise...
 Dots here...
-=======
 Hello!
 I am ok!
 
@@ -11,4 +10,4 @@ Updating with Bash
 
 Update with Tortoise
 
->>>>>>> 73556fc7be68e3762c1d51a26e32cb2d6892e5d6
+
